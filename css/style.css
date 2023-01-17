@@ -1,0 +1,130 @@
+*{
+    margin:0px;
+}
+body{
+  font-family:'Times New Roman', serif;
+      font-size: 16px;
+      font-weight: normal;
+      font-style:normal;
+      color:black;
+
+}
+h1{
+  color: MidnightBlue;
+}
+main{
+  background-color: #F0F8FF;
+}
+.header1{
+  background-color: #ADD8E6;
+}
+#h1{
+  color: RoyalBlue;
+}
+#c{
+  color: DarkRed;
+  margin-left: 30px;
+}
+.RS{
+  color: RoyalBlue;
+font-style: italic;
+}
+.f {
+    position:relative;
+    margin:auto;
+    background-color: #ADD8E6;
+}
+.f a{
+  text-decoration:none;
+  color: black;
+}
+
+#cv{
+  text-decoration:none;
+  color:black;
+}
+ .social-media a {
+    display: flex;
+  justify-content: center;
+}
+
+nav a{
+    color:black;
+    text-decoration: none;
+    width:100px;
+    text-align: center;
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    border:1px solid black;
+    border-radius: 20px;
+
+
+}
+
+header {
+  text-align: center;
+  border-bottom: black ;
+}
+
+footer {
+  text-align: center;
+}
+h3{
+  color: RoyalBlue;
+}
+h4{
+  margin-left: 30px;
+  color: DarkRed;
+}
+#sub {
+  background: DodgerBlue;
+  border: 0;
+  color: white;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#results h3 {
+  background: DodgerBlue;
+  padding: 10px;
+  margin: 10px 0;
+  color: white;
+}
+#results span {
+  color: red;
+  font-weight: bold;
+}
+#aa{
+  float:left;
+}
+#features{
+  position: static;
+}
+
+.hedding-title{
+font-size:25px;
+text-align: center;
+}
+.hedding-title h1{
+margin:0px;
+color:CornflowerBlue;
+font-weight: normal;
+}
+.form_contact{
+  color: MediumBlue;
+}
+.formu input,
+.formu textarea{
+margin: 15px 0px;
+font-family:"Barlow Semi Condensed",sans-serif;
+border-radius: 0px;
+border: 1px solid ;
+}
+.button{
+padding:8px ;
+margin-top:15px;
+background-color:CornflowerBlue;
+border: none;
+color: #fff;
+}
